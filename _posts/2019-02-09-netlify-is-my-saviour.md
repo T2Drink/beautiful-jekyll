@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Netlify Is My Saviour
-subtitle: A website for 1 pound a year? Surely not.. 
+subtitle: A website for 1 pound a year? Surely not..
+published: true 
 ---
 In this article, i discuss how i overcame some hurdles with mobile blogging, the way i wanted it, and the awesome service that helped me do it. All for 1 pound a year
 
